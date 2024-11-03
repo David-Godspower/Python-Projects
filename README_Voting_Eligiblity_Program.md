@@ -23,3 +23,5 @@ Clone the repository and navigate to the directory containing the program. Run t
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Contact
+For questions, please contact me at [ajaladavid11@gmail.com](mailto:ajaladavid11@gmail.com) or visit my [GitHub profile](https://github.com/David-Godspower).
