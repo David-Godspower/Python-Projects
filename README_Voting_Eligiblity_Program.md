@@ -16,10 +16,10 @@ The program starts by defining the minimum voting age. It then prompts the user 
 
 ## Installation
 To run this program, make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+Clone the repository and navigate to the directory containing the program. Run the script using:
+```python simple_voting_system.py```
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Clone the repository and navigate to the directory containing the program. Run the script using:
-```bash
-python simple_voting_system.py
