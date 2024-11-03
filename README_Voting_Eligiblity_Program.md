@@ -10,18 +10,16 @@ This program determines whether a user is eligible to vote based on their age. I
 
 ## Code Explanation
 The program starts by defining the minimum voting age. It then prompts the user to enter their age and evaluates the input against the eligibility criteria:
+
 - If the age is less than 18, the user is informed that they are not eligible to vote.
 - If the age is 18 or older, the user is informed that they are eligible to vote.
 - If the input is invalid (negative or non-numeric), the program asks for a valid age.
 
 ## Installation
-To run this program, make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
-Clone the repository and navigate to the directory containing the program. Run the script using:
-`Simple_Voting_Eligibility.py`
-
+To run this program, make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/). Clone the repository and navigate to the directory containing the program. Run the script using: `Simple_Voting_Eligibility.py`.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 For questions, please contact me at [ajaladavid11@gmail.com](mailto:ajaladavid11@gmail.com) or visit my [GitHub profile](https://github.com/David-Godspower).
