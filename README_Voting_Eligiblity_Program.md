@@ -37,11 +37,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Contact
 
 For questions, please contact me at ajaladavid11@gmail.com or visit my GitHub profile at GitHub Profile.
-
-### Steps to Follow:
-1. **Open your README file** in Pydroid or any text editor.
-2. **Copy the entire text above** and **paste it** into your README file, replacing any existing content.
-3. **Save the file** to ensure your changes are not lost.
-4. **Commit the changes** to your GitHub repository to make them live.
-
-This comprehensive README provides clear instructions and explanations for anyone who may use or contribute to your project. If you need further modifications or have additional questions, feel free to ask!
