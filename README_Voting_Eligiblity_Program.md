@@ -1,4 +1,4 @@
-# Voting Eligibility Program
+# Simple Voting Eligibility Program
 
 ## Description
 This program determines whether a user is eligible to vote based on their age. It prompts the user to input their age and checks if they meet the minimum voting age requirement.
