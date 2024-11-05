@@ -1,14 +1,14 @@
 # Inspirational Quote of the Day
 
 ## Description
-This program displays inspirational quotes based on three areas - Technology,Arts and Self Improvement.
+This program displays inspirational quotes based on three areas - Technology, Arts and Self Improvement.
 
 ## Features
 - Displays a random inspirational quote of the day.
 - Allows users to choose their area of interest.
 
 ## Code Explanation 
-This program selects quote from a predefined lists and display it to the user based on the user's interest.
+This program selects quotes from a predefined lists and display it to the user based on the their interest.
 
 ## ## Installation
 To run this project, you need to have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
@@ -25,10 +25,10 @@ After cloning or downloading, navigate to the directory containing the program a
 
 `python Inspirational_Quote_of_the_Day`
 
-License
+# License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Contact
+# Contact
 
-For questions, please contact me at ajaladavid11@gmail.com or visit my GitHub profile.
+For questions, please contact me at ajaladavid11@gmail.com or visit my [GitHub profile](https://github.com/David-Godspower).
