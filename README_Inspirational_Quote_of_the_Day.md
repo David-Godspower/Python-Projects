@@ -10,7 +10,7 @@ This program displays inspirational quotes based on three areas - Technology, Ar
 ## Code Explanation 
 This program selects quotes from a predefined lists and display it to the user based on the their interest.
 
-## ## Installation
+## Installation
 To run this project, you need to have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
 
 ### Clone the Repository
