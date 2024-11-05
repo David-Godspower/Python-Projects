@@ -23,7 +23,7 @@ If you don't have Git installed, you can download the project as a ZIP file from
 
 After cloning or downloading, navigate to the directory containing the program and run the script using:
 
-`python Inspirational_Quote_of_the_Day`
+`python Inspirational_Quote_of_the_Day.py`
 
 # License
 
